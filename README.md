@@ -1,6 +1,9 @@
 <h1>Advice Generator</h1>
 <b>Advice Generator</b>: https://advice-generator-nu-silk.vercel.app/
 
+
+
+
 ![desktop-preview](https://github.com/user-attachments/assets/d6b70edc-9c02-462c-928d-3182a1f5f651)
 
 
